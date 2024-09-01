@@ -34,7 +34,7 @@ You can access the live version of the To-Do app [here](https://new-to-do-list-a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Darkhunt16/ToDo_App.git
    cd todo-app
 
 2. Install the backend dependencies:
